@@ -67,7 +67,7 @@ admin:841a370075da4fa12968d5b58e8ffdaa
 My Synology with Directory Server installed already had `ldapsearch`, so I assume that it's standard. You only need to have the python dependencies installed if you are running this locally.
 
 + Programs / Binaries
-  + ldapasearch
+  + ldapsearch
 + Python Modules
   + samba
   + ldb
